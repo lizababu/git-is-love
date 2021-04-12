@@ -1,2 +1,3 @@
-# git-is-love
-Git Tutorial for Hackers
+# Git Tutorial for Hackers
+
+Welcome to the coolest Git tutorial, have fun!
